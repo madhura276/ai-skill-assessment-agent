@@ -58,13 +58,6 @@ The system is designed to help recruiters, hiring teams, and candidates better u
 ## Project Structure
 
 ```text
-
-If you want, you can make it a little cleaner and more detailed like this in your final README:
-
-```md
-## Project Structure
-
-```text
 ai-skill-agent/
 │
 ├── backend/
