@@ -1,0 +1,4 @@
+Machine Learning enthusiast with experience in Python and Jupyter notebooks.
+Built academic ML projects using scikit-learn and basic NLP pipelines.
+Some familiarity with SQL and APIs, but limited experience shipping backend services.
+No direct production MLOps or monitoring ownership yet.

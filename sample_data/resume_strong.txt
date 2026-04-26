@@ -1,0 +1,5 @@
+AI Developer with 3 years of experience building Python applications and backend services.
+Built FastAPI APIs for internal tooling and analytics workflows.
+Used pandas, scikit-learn, and SQL for model experimentation and reporting.
+Worked on NLP use cases including text classification and prompt workflows.
+Limited but growing experience with Docker, monitoring, and production MLOps pipelines.

@@ -1,0 +1,26 @@
+{
+  "final_summary": {
+    "recruiter_summary": "Candidate is strong in Python and backend implementation, but still needs practical MLOps depth for this role.",
+    "strengths": ["Python", "FastAPI", "Applied ML"],
+    "concerns": ["MLOps", "Production monitoring"],
+    "hiring_recommendation": "Promising, Needs Upskilling",
+    "overall_score": 0.71
+  },
+  "skill_results": [
+    {
+      "skill": "Python",
+      "final_skill_score": 0.84,
+      "status": "ready"
+    },
+    {
+      "skill": "FastAPI",
+      "final_skill_score": 0.79,
+      "status": "near_ready"
+    },
+    {
+      "skill": "MLOps",
+      "final_skill_score": 0.42,
+      "status": "gap"
+    }
+  ]
+}

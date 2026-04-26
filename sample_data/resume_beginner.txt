@@ -1,0 +1,4 @@
+Recent graduate with coursework in Python, data structures, and machine learning.
+Completed projects in sentiment analysis and chatbot development.
+Some exposure to SQL in coursework.
+No real deployment, FastAPI, or MLOps experience yet.
