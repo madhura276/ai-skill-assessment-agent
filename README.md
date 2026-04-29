@@ -14,6 +14,13 @@ A resume tells you what someone claims to know, but not how well they actually k
 
 The system is designed to help recruiters, hiring teams, and candidates better understand role readiness and realistic upskilling paths.
 
+## Live Demo
+
+Try the deployed application here:
+
+[AI Skill Assessment Agent](https://ai-skill-assessment-agent-km2mh3kvbaqgtkfczerkqw.streamlit.app/)
+
+
 ## Features
 
 - Extracts required skills from a Job Description
